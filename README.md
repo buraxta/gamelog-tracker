@@ -6,14 +6,14 @@
 <img src="/public/game-tracker.png" />
 
 ## Features
-<b>Game Management:</b> Add, edit, and delete game logs.
-<b>Dashboard:</b> View a summary of all logged game sessions.
-<b>Responsive Design:</b> Optimized for both desktop and mobile views.
-Technologies Used
-<b>Frontend:</b> Next.js, Tailwind CSS
-<b>Backend:</b> Node.js, Prisma ORM
-<b>Database:</b> PostgreSQL
-<b>Others:</b> TypeScript, ESLint
+- <b>Game Management:</b> Add, edit, and delete game logs. <br/>
+- <b>Dashboard:</b> View a summary of all logged game sessions. <br/>
+- <b>Responsive Design:</b> Optimized for both desktop and mobile views.<br/>
+## Technologies Used<br/>
+- <b>Frontend:</b> Next.js, Tailwind CSS<br/>
+- <b>Backend:</b> Node.js, Prisma ORM<br/>
+- <b>Database:</b> PostgreSQL<br/>
+- <b>Others:</b> TypeScript, ESLint<br/>
 ## Getting Started
 Clone the repository:
 
