@@ -6,8 +6,10 @@
 <img src="/public/game-tracker.png" />
 
 ## Features
-- <b>Game Management:</b> Add, edit, and delete game logs. <br/>
 - <b>Dashboard:</b> View a summary of all logged game sessions. <br/>
+- <b>CRUD Operations:</b> Create, read, update, and delete game logs to manage your gaming history effectively.
+- <b>Search Functionality:</b> Easily search through game logs to quickly find specific entries.
+- <b>Day-Night Mode:</b> Toggle between day and night modes for a better user experience.
 - <b>Responsive Design:</b> Optimized for both desktop and mobile views.<br/>
 ## Technologies Used<br/>
 - <b>Frontend:</b> Next.js, Tailwind CSS<br/>
